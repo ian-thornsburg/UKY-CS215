@@ -52,6 +52,7 @@ string roman_numeral(int n)
 	}
 	return output;
 }
+
 int main()
 {
 	const int FIRST_YEAR = 1967;
